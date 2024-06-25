@@ -31,7 +31,7 @@ This Python script allows you to play the classic Rock Paper Scissors game again
 
 - The game includes error handling to manage invalid inputs. If you enter anything other than `rock`, `paper`, or `scissors`, you'll receive an error message prompting you to enter a valid choice.
 
-## Contribution
+## Contribution:
 
 Feel free to fork this repository and contribute by submitting a pull request. For any issues or suggestions, please open an issue in the repository.
 
