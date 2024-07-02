@@ -18,7 +18,7 @@ This Python script allows you to play the classic Rock Paper Scissors game again
 
 - Python 3.x
 
-## How to Run
+## How to Run:
 
 1. Clone this repository to your local machine.
 2. Navigate to the directory where the script is located.
@@ -35,10 +35,6 @@ This Python script allows you to play the classic Rock Paper Scissors game again
 
 Feel free to fork this repository and contribute by submitting a pull request. For any issues or suggestions, please open an issue in the repository.
 
-## License
+## License:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides an overview of the game, instructions on how to play, and details about the script's functionality. You can customize it further to suit your needs.
