@@ -2,7 +2,7 @@
 
 This Python script allows you to play the classic Rock Paper Scissors game against the computer. The first player to score 5 points wins the game.
 
-## How to Play
+## How to Play:
 
 1. When you run the script, you'll be shown a menu with three options: `rock`, `paper`, and `scissors`.
 2. Type your choice (rock, paper, or scissors) and press Enter.
@@ -14,7 +14,7 @@ This Python script allows you to play the classic Rock Paper Scissors game again
 5. The first player (you or the computer) to score 5 points wins the game.
 6. If you enter anything other than `rock`, `paper`, or `scissors`, an exception will be thrown, and you'll be prompted to enter a valid choice.
 
-## Requirements
+## Requirements:
 
 - Python 3.x
 
